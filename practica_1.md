@@ -23,7 +23,8 @@ echo $s
 echo '| '$1' |'
 echo $s
 ```
-![image](https://github.com/user-attachments/assets/7cffc2fd-34a3-4d20-84f5-a9bffe22ead1)
+![image](https://github.com/user-attachments/assets/3402b6b0-1e66-4678-841e-e38bb80293d1)
+
 
 
 ## Задача 4
@@ -33,14 +34,15 @@ echo $s
 chmod $2 $1
 cp $1 /usr/local/bin
 ```
-![image](https://github.com/user-attachments/assets/d6359f28-ed85-46c7-8e49-0ebe9d47830f)
+![image](https://github.com/user-attachments/assets/189c908f-1cec-4887-9bf8-c33ef456479a)
+
 
 
 ## Задача 6
 ```
 cat $1 | head -1 | grep '^[#]'
 ```
-![image](https://github.com/user-attachments/assets/25bc60eb-05e0-4876-b1f5-faf2ccdace14)
+![image](https://github.com/user-attachments/assets/1c2ff65f-26b9-4b00-ad93-baaf9bda21d8)
 
 ## Задача 7
 
